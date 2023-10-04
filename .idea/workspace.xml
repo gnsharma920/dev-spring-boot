@@ -4,72 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e30c20-72f7-4641-9df5-244f7e91d4f9" name="Changes" comment="Spring-boot overview and Spring-boot-core." />
-    <list id="9c193678-6ee9-48c5-a026-054118644418" name="NOY_PUSH_CHANGES" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-devtools/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-devtools/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-devtools/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-devtools/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-devtools/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-spring-boot-actuaor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-spring-boot-actuaor/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-spring-boot-actuaor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-spring-boot-actuaor/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/03-spring-boot-actuaor/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-spring-boot-actuaor-security/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-spring-boot-actuaor-security/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-spring-boot-actuaor-security/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-spring-boot-actuaor-security/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/04-spring-boot-actuaor-security/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-spring-boot-inject-custom-properties/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-spring-boot-inject-custom-properties/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-spring-boot-inject-custom-properties/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-spring-boot-inject-custom-properties/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-spring-boot-overview/05-spring-boot-inject-custom-properties/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/01-constructor-injection/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/01-constructor-injection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/01-constructor-injection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/01-constructor-injection/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/01-constructor-injection/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/02-component-scanning/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/02-component-scanning/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/02-component-scanning/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/02-component-scanning/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/02-component-scanning/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/03-setter-filed-injection/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/03-setter-filed-injection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/03-setter-filed-injection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/03-setter-filed-injection/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/03-setter-filed-injection/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/04-qualifier-primary-annotation/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/04-qualifier-primary-annotation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/04-qualifier-primary-annotation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/04-qualifier-primary-annotation/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/04-qualifier-primary-annotation/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/05-lazy-annotation/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/05-lazy-annotation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/05-lazy-annotation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/05-lazy-annotation/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/05-lazy-annotation/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/06-bean-scope/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/06-bean-scope/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/06-bean-scope/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/06-bean-scope/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/06-bean-scope/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/07-bean-lifecycle-method/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/07-bean-lifecycle-method/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/07-bean-lifecycle-method/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/07-bean-lifecycle-method/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/07-bean-lifecycle-method/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/08-java-config-bean/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/08-java-config-bean/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/08-java-config-bean/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/08-java-config-bean/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-spring-boot-core/08-java-config-bean/mvnw.cmd" afterDir="false" />
+    <list default="true" id="e9e30c20-72f7-4641-9df5-244f7e91d4f9" name="Changes" comment="Spring-boot overview and Spring-boot-core.">
+      <change afterPath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/java/com/springbloom/crudDemo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/java/com/springbloom/crudDemo/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/java/com/springbloom/crudDemo/repository/impl/StudentRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/java/com/springbloom/crudDemo/CrudDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/java/com/springbloom/crudDemo/CrudDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-hibernate-JPA-api/01-crudDemo-student/src/main/resources/application.properties" afterDir="false" />
     </list>
+    <list id="9c193678-6ee9-48c5-a026-054118644418" name="NOY_PUSH_CHANGES" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/gopalsharma/gopalsharma/Spring-boot/dev-spring-boot"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gopalsharma/gopalsharma/Spring-boot/dev-spring-boot&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
